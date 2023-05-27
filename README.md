@@ -8,7 +8,7 @@
 
 > Criado em css e html, demonstrando um exemplo de Landing page de um jogo de terror (Não oficial)
 
-### 🏠 [Clique para ver o projeto](https://igusantos.github.io/GameHorrer-LandingPage/)
+### 🏠 [Clique para ver o projeto] <a href="https://igusantos.github.io/GameHorrer-LandingPage/" target="_blank"> [Clique para ver o projeto] </a>
 
 ## Autor
 
