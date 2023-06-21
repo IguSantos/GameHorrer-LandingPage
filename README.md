@@ -1,19 +1,27 @@
+<h1 align="center">GameHorror Landing Page</h1>
 
-<h1 align="center">Landing Page: Game Horror</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
+<p align="center">
+Landing page sobre um jogo de terror (não oficial) com botões "play now" e "read more"<br/>
 </p>
 
-> Criado em css e html, demonstrando um exemplo de Landing page de um jogo de terror (Não oficial)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### 🏠 <a href="https://igusantos.github.io/GameHorrer-LandingPage/" target="_blank"> [Clique para ver o projeto] </a>
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Autor
+<br>
 
-👤 **Igor Pereira**
+<p align="center">
+  <img src="preview.png" width="100%">
+</p>
 
-* Instagram: [@igu_santos](https://www.instagram.com/igu_santos/)
+## :rocket: Tecnologias
 
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- HTML, CSS e JS
+- Git, Github (actions, pages)
